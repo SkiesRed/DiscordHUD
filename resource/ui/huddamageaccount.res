@@ -1,0 +1,47 @@
+"Resource/UI/HudDamageAccount.res"
+{
+	"CDamageAccountPanel"
+	{
+		"PositiveColor"	  							"White"
+		"fieldName"									"CDamageAccountPanel"
+		"text_x"									"0"
+		"text_y"									"0"
+		"delta_lifetime"	  						"2"
+		"delta_item_font"	  						"WhitneyDiscord"
+		"delta_item_font_big"						"WhitneyDiscord"
+		"alpha"										"255"
+	}
+	"DamageAccountValue"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"DamageAccountValue"
+		"xpos"										"cs-0.5"
+		"ypos"										"c50"
+		"zpos"										"2"
+		"wide"										"100"
+		"tall"										"30"
+		"visible"									"1"
+		"enabled"									"1"
+		"labelText"									"%metal%"
+		"textAlignment"								"center"
+		"fgcolor"									"White"
+		"font"										"WhitneyDiscord"
+	}
+	"DamageAccountValueShadow"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"DamageAccountValueShadow"
+		"xpos"										"0"
+		"ypos"										"c50"
+		"zpos"										"1"
+		"wide"										"101"
+		"tall"										"31"
+		"visible"									"1"
+		"enabled"									"1"
+		"labelText"									"%metal%"
+		"textAlignment"								"center"
+		"fgcolor"									"HudBlack"
+		"font"										"WhitneyDiscord"
+		"pin_to_sibling"							"DamageAccountValue"
+	}
+}
