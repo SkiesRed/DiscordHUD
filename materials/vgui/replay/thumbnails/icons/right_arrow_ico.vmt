@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$vertexcolor"	"1"
+	"$vertexalpha"	"1"
+	"$ignorez"	"1"
+	"$basetexture"	 "vgui/replay/thumbnails/icons/down_arrow_ico"
+   	 "$angle" 90
+    
+   	 //reload target: mat_reloadmaterial target
+   	 "Proxies"
+   	 {
+   	     "TextureTransform"
+   	     {
+    	        "rotateVar" "$angle"
+    	        "resultVar" "$basetexturetransform"
+   	     }
+  	  }
+}
