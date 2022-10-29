@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"7"
 				"tall"										"6"	[$LINUX]
 				"weight"									"500"
@@ -17,7 +17,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"9"
 				"tall"										"8"	[$LINUX]
 				"weight"									"500"
@@ -28,7 +28,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"10"
 				"tall"										"9" [$LINUX]
 				"weight"									"500"
@@ -39,7 +39,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"11"
 				"tall"										"10" [$LINUX]
 				"weight"									"500"
@@ -50,7 +50,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"10"
 				"tall"										"9" [$LINUX]			
 				"weight"									"500"
@@ -61,7 +61,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"12"
 				"tall"										"11" [$LINUX]
 				"weight"									"500"
@@ -72,7 +72,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"14"
 				"tall"										"14" [$LINUX]	
 				"weight"									"500"
@@ -83,7 +83,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"16"
 				"tall"										"15" [$LINUX]
 				"weight"									"500"
@@ -94,7 +94,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"18" 				
 				"tall"										"17" [$LINUX]
 				"weight"									"500"
@@ -105,7 +105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"22"
 				"tall"										"21" [$LINUX]				
 				"weight"									"500"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"24"
 				"tall"										"25" [$LINUX]				
 				"weight"									"500"
@@ -127,7 +127,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"28"
 				"tall"										"27" [$LINUX]				
 				"weight"									"500"
@@ -138,7 +138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"30"
 				"tall"										"29" [$LINUX]				
 				"weight"									"500"
@@ -149,7 +149,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"34"
 				"tall"										"33" [$LINUX]				
 				"weight"									"500"
@@ -160,7 +160,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"38"
 				"tall"										"36" [$LINUX]				
 				"weight"									"500"
@@ -171,7 +171,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"46"
 				"tall"										"45" [$LINUX]				
 				"weight"									"500"
@@ -182,7 +182,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"70"
 				"tall"										"69" [$LINUX]				
 				"weight"									"500"
@@ -196,7 +196,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"0"
@@ -207,7 +207,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -218,7 +218,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"11"
 				"weight"	"0"
 				"additive"	"0"
@@ -229,7 +229,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"17"
 				"weight"	"0"
 				"additive"	"0"
@@ -240,7 +240,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"0"
@@ -261,7 +261,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -272,7 +272,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"10"
 				"weight"	"0"
 				"additive"	"0"
@@ -283,7 +283,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"13"
 				"weight"	"0"
 				"additive"	"0"
@@ -298,7 +298,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -307,7 +307,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -316,7 +316,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -325,7 +325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -334,7 +334,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -343,7 +343,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -352,7 +352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -361,7 +361,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -370,7 +370,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"weight"									"0"
 				"antialias"									"1"
 			}
@@ -383,7 +383,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -392,7 +392,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -401,7 +401,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -410,7 +410,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -419,7 +419,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -428,7 +428,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x00FF"
@@ -436,7 +436,7 @@ Scheme
 			}
 			"7"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x00FF"
@@ -447,7 +447,7 @@ Scheme
 		{
 			"1"
 			{	
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"38"
 				"tall"										"37" [$LINUX]
 				"antialias" 								"1"
@@ -459,7 +459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"16"
 				"outline"									"1"
 				"range"										"0x0000 0x017F"
@@ -468,7 +468,7 @@ Scheme
 			}							
 			"2"							
 			{							
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"22"
 				"outline"									"1"
 				"range"										"0x0000 0x017F"
@@ -477,7 +477,7 @@ Scheme
 			}							
 			"3"							
 			{							
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"28"
 				"outline"									"1"
 				"range"										"0x0000 0x017F"
@@ -487,7 +487,7 @@ Scheme
 			}							
 			"4"							
 			{							
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"28"
 				"outline"									"1"
 				"range"										"0x0000 0x017F"
@@ -496,7 +496,7 @@ Scheme
 			}							
 			"5"							
 			{							
-				"name"										"Whitney Semibold"
+				"name"										"WhitneyBold"
 				"tall"										"28"
 				"outline"									"1"
 				"range"										"0x0000 0x017F"
@@ -554,7 +554,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -563,7 +563,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -572,7 +572,7 @@ Scheme
 			"1"
 			{
 				"tall"		"12"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -581,7 +581,7 @@ Scheme
 			"1"
 			{
 				"tall"		"13"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -590,7 +590,7 @@ Scheme
 			"1"
 			{
 				"tall"		"29"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -598,7 +598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -607,7 +607,7 @@ Scheme
 			"1"
 			{
 				"tall"		"15"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -616,7 +616,7 @@ Scheme
 			"1"
 			{
 				"tall"		"14"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -625,17 +625,17 @@ Scheme
 			"1"
 			{
 				"tall"		"12"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"2"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"3"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -643,7 +643,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -652,17 +652,17 @@ Scheme
 			"1"
 			{
 				"tall"		"12"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"2"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"3"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -671,17 +671,17 @@ Scheme
 			"1"
 			{
 				"tall"		"12"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"2"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"3"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -689,7 +689,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -697,17 +697,17 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"2"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 			"3"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}	
@@ -716,7 +716,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -725,7 +725,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -734,7 +734,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -743,7 +743,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -751,7 +751,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -760,7 +760,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -769,7 +769,7 @@ Scheme
 			"1"
 			{
 				"tall"		"10"
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -780,7 +780,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -788,7 +788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}	
@@ -799,7 +799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"12"
 				"weight"	"0"
 			}
@@ -808,7 +808,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"22"
 				"weight"	"0"
 			}
@@ -817,7 +817,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -825,7 +825,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -833,7 +833,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}	
@@ -845,7 +845,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -856,7 +856,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"42"
 				"weight"	"0"
 			}
@@ -865,7 +865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"34"
 				"weight"	"0"
 			}
@@ -874,7 +874,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"34"
 				"weight"	"0"
 			}
@@ -883,7 +883,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"33"
 				"weight"	"0"
 			}
@@ -892,7 +892,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"28"
 				"weight"	"0"
 			}
@@ -901,7 +901,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"28"
 				"weight"	"0"
 			}
@@ -910,7 +910,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"22"
 				"weight"	"0"
 			}
@@ -919,7 +919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"22"
 				"weight"	"0"
 			}
@@ -928,7 +928,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"14"
 				"weight"	"0"
 			}
@@ -937,7 +937,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"12"
 				"weight"	"0"
 			}
@@ -946,7 +946,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"12"
 				"weight"	"0"
 			}
@@ -955,7 +955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"tall"		"9"
 				"weight"	"0"
 			}
@@ -964,7 +964,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
@@ -972,7 +972,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Whitney Semibold"
+				"name"		"WhitneyBold"
 				"weight"	"0"
 			}
 		}
