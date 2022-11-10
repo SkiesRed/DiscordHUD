@@ -1,4 +1,6 @@
 # DiscordHUD
-DiscordHUD
 
-Made by SkiesRed & DrinkinTea
+Primarly made by SkiesRed
+
+credit:
+DrinkinTea - vtf/vmt work
