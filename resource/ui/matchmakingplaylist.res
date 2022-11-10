@@ -19,7 +19,7 @@
 		"fieldName"		"CasualEntry"
 		"xpos"			"0"
 		"ypos"			"3"
-		"tall"			"45"
+		"tall"			"22"
 		"wide"			"255"
 		"proportionaltoparent"	"1"
 
@@ -40,8 +40,8 @@
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CompetitiveEntry"
 		"xpos"			"0"
-		"ypos"			"53"
-		"tall"			"45"
+		"ypos"			"23"
+		"tall"			"22"
 		"wide"			"255"
 		"proportionaltoparent"	"1"
 
@@ -62,8 +62,8 @@
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"MvMEntry"
 		"xpos"			"0"
-		"ypos"			"103"
-		"tall"			"45"
+		"ypos"			"43"
+		"tall"			"22"
 		"wide"			"255"
 		"proportionaltoparent"	"1"
 
@@ -84,8 +84,8 @@
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"ServerBrowserEntry"
 		"xpos"			"0"
-		"ypos"			"153"
-		"tall"			"45"
+		"ypos"			"63"
+		"tall"			"22"
 		"wide"			"255"
 		"proportionaltoparent"	"1"
 
@@ -105,8 +105,8 @@
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"TrainingEntry"
 		"xpos"			"0"
-		"ypos"			"203"
-		"tall"			"45"
+		"ypos"			"83"
+		"tall"			"22"
 		"wide"			"255"
 		"proportionaltoparent"	"1"
 
@@ -126,8 +126,8 @@
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CreateServerEntry"
 		"xpos"			"0"
-		"ypos"			"253"
-		"tall"			"45"
+		"ypos"			"103"
+		"tall"			"22"
 		"wide"			"255"
 		"proportionaltoparent"	"1"
 

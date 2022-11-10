@@ -33,27 +33,29 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"text_inactive"
+		"bgcolor_override"	"black"
 	}
-	"ToolTipHack"
+	"spacer"
 	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ToolTipHack"
-		"wide"			"0"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"spacer"
+		"xpos"			"8"
+		"ypos"			"cs-0.5"
+		"zpos"			"99"
+		"wide"			"8"
+		"tall"			"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleimage"	"1"
+		"image"			"replay/thumbnails/icons/forums_spacer_ico"
+		"proportionaltoparent" "1"
 	}
-	"ToolTipButtonHack"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ToolTipButtonHack"
-		"wide"			"0"
-	}
-
 	"ModeButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ModeButton"
 		"xpos"			"44"
-		"ypos"			"0"
+		"ypos"			"cs-0.5"
 		"zpos"			"6"
 		"wide"			"p1"
 		"tall"			"20"
@@ -82,21 +84,6 @@
 		"armedFgColor_override"		"TanLight"
 		"depressedFgColor_override" "TanLight"
 	}	
-	"spacer"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"spacer"
-		"xpos"			"4"
-		"ypos"			"cs-0.5"
-		"zpos"			"99"
-		"wide"			"10"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleimage"	"1"
-		"image"			"replay/thumbnails/icons/forums_spacer_ico"
-		"proportionaltoparent" "1"
-	}
 
 	"MatchmakingBanPanel"
 	{
@@ -140,43 +127,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabel"
-		"font"			"dsc12"
-		"labelText"		"%desc_token%"
-		"textAlignment"	"north"
-		"xpos"			"44"
-		"ypos"			"20"
-		"zpos"			"2"
-		"wide"			"200"
-		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"centerwrap"	"1"
-		"fgcolor_override" "text"
-		"proportionaltoparent" "1"
-		"mouseinputenabled"	"0"
+		"wide"			"0"
 	}
 	"DescLabelShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabelShadow"
-		"font"			"dsc12"
-		"labelText"		"%desc_token%"
-		"textAlignment"	"north"
-		"xpos"			"45"
-		"ypos"			"21"
-		"zpos"			"1"
-		"wide"			"200"
-		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"centerwrap"	"1"
-		"fgcolor_override" "Black"
-		"proportionaltoparent" "1"
-		"mouseinputenabled"	"0"
+		"wide"			"0"
 	}
 	
 	"DisabledIcon"
@@ -223,5 +180,17 @@
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"
 		}	
+	}
+	"ToolTipHack"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"ToolTipHack"
+		"wide"			"0"
+	}
+	"ToolTipButtonHack"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"ToolTipButtonHack"
+		"wide"			"0"
 	}
 }
