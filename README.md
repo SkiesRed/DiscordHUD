@@ -1,8 +1,10 @@
 # DiscordHUD
 
-Primarly made by SkiesRed
+Primarily made by me, SkiesRed
 
-This project is on hold for a while - it's a bit ambitious for someone like me who is quite new to hud creation.
+**This project is on hold for a while - it's a bit ambitious for someone like me who is quite new to hud creation.**
 
-credit:
-DrinkinTea - vtf/vmt work
+Credits:
+
+- DrinkinTea - vtf/vmt work
+- ..
